@@ -1,0 +1,22 @@
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: hsl(0, 0%, 100%); 
+    padding: 5px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+.carousel-caption h5 {
+    font-size: 2rem; 
+    margin-bottom: 10px;
+}
+
+
+.carousel-caption button {
+    font-size: 1.2rem; 
+}
